@@ -129,7 +129,7 @@ The pipeline structure reflects typical Commercial plumbing distribution systems
 
 ### Water Plumbing
 
-![Plumbing drainage](images/Plumbing(drainage).png")
+![Plumbing drainage](images/Plumbing(drainage).png)
 
 ### Water Supply Pipeline
 
@@ -190,3 +190,4 @@ Future improvements could include:
 # Author
 
 Project developed as part of an academic technical submission.
+
